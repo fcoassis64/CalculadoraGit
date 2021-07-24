@@ -10,12 +10,18 @@ package calculadoragit;
  * @author Francisco
  */
 public class CalculadoraGit {
-
-    /**
-     * @param args the command line arguments
-     */
+    
+    
+// Declarar variáveis de classe
+    static int x;
+    static int y;
+    static int soma;
+    static int subtracao;
+    static int multiplicacao;
+    static int divisao;
+    
     public static void main(String[] args) {
-        // TODO code application logic here
+        
     }
     
 }
